@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BRAYAN LOPEZ</title>
+</head>
+<body>
+    <h1>mi primer pagina de repositorio</h1>
+    <div><containe-main>
+    <div class="table-main" >
+    <th>
+        <td>id</td>
+        <td>nombre me gusta jugar fornite y futbol</td>
+    </th>
+    <table>
+        <div>
+</body>
+</html>
